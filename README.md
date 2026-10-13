@@ -8,3 +8,6 @@
 - extract redistribution file 
 - left click on install all and run as administrator 
 - let it download through command line 
+- go to search and search for fedora media writer 
+- connect USB DRIVE 
+- 
